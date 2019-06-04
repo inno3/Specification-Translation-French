@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>2)Definitions</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20190604T100853Z" creationid="camille" creationdate="20190604T100853Z">
+        <seg>2)Définitions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>3)Requirements</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20190604T101011Z" creationid="camille" creationdate="20190604T101011Z">
+        <seg>3)Exigences</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;f0&gt;FOSS Liaison&lt;/f0&gt; - a designated person who is assigned to receive external FOSS inquires.</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170804T164025Z" creationid="hvovietanh" creationdate="20170803T073909Z">
