@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -114,6 +114,14 @@
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20170810T144845Z" creationid="camille" creationdate="20170810T144845Z">
         <seg>&lt;s0/&gt;Les détails de la politique et ses traductions sont disponibles sur &lt;a1&gt;le site Web de la spécification OpenChain&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;x1/&gt;Establishing trust in the Open Source from which Software Solutions are built&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20190604T095846Z" creationid="camille" creationdate="20190604T095846Z">
+        <seg>&lt;x1/&gt;Renforcer la confiance dans les composants Open Source sur lesquels reposent les développements logiciels&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
