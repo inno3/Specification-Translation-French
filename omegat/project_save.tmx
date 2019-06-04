@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>&lt;x1/&gt;Contents&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="FR" changeid="camille" changedate="20190604T095902Z" creationid="camille" creationdate="20190604T095902Z">
+        <seg>&lt;x1/&gt;Table des matières&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>&lt;x1/&gt;Establishing trust in the Open Source from which Software Solutions are built&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="FR" changeid="camille" changedate="20190604T095846Z" creationid="camille" creationdate="20190604T095846Z">
